@@ -1,2 +1,2 @@
 # bashproject
-A collection of simple bash scripts fwhich can be used for user manipulation 
+A collection of simple bash scripts which can be used for user manipulation 
